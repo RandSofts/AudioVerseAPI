@@ -1,3 +1,9 @@
+<table align="right">
+ <tr><td><a href="https://github.com/isyuricunha/AudioVerseAPI/blob/main/README.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/isyuricunha/AudioVerseAPI/blob/main/readme-pt-br.md">:brazil: Português</a></td></tr>
+ <tr><td><a href="https://github.com/isyuricunha/AudioVerseAPI/blob/main/readme-fr.md">:fr: French</a></td></tr>
+</table>
+
 # AudioVerseAPI
 AudioVerseAPI est une bibliothèque Python pour accéder et manipuler des données liées à la musique. Il fournit une interface facile à utiliser pour interagir avec l'API AudioVerse, qui offre une base de données complète d'informations liées à la musique telles que les artistes, les albums, les pistes et bien plus encore. Avec AudioVerseAPI, vous pouvez accéder à ces informations, extraire les données pertinentes et effectuer diverses opérations dessus.
 
